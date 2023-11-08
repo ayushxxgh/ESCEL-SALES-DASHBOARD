@@ -1,4 +1,4 @@
-# ESCEL-SALES-DASHBOARD
+# EXCEL-SALES-DASHBOARD
 OBJECTIVE 
 Vrinda store wants to create an annual sales report for 2022. So that, vrinda can understand their customers and gro more sales in 2023.
 
